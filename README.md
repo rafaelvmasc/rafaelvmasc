@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey, I am Rafael! Welcome to my profile👨‍💻
+<div>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelvmasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true ">
 
-<!--
-**rafaelvmasc/rafaelvmasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
+ <div>
+<ul>
+  <li>
+    - 🌱 I’m currently learning <b>Flutter</b> and <b>React</b>
+    </li>
+  <li>
+- 💬 Send me a message and i'll be more than happy to help you
+  </li>
+  <li>
+    <p>- 📫 How to reach me: rvmascavalcante@gmail.com</p>
+    <a href="https://www.linkedin.com/in/rafaelvanderleicavalcante/" />
+  <img href="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/rafaelvanderleimarques" />
+  <img href="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+    
+  </li>
+  </ul>
+  </div>
