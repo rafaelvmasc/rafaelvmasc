@@ -7,7 +7,7 @@
  <div>
 <ul>
   <li>
-   - 🌱 I’m currently learning <b>Flutter</b>,<b>ReactJS</b> and <b>Typescript</b>
+   - 🌱 I’m currently learning <b>Flutter</b>, <b>ReactJS</b> and <b>Typescript</b>
     </li>
   <li>
 - 💬 Send me a message and i'll be more than happy to help you
