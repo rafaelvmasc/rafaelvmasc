@@ -7,9 +7,6 @@
  <div>
 <ul>
   <li>
-   - 🌱 I’m currently learning <b>ReactJS</b>, <b>Typescript</b>, <b>React Native</b> and a bit of <b>Flutter</b>
-    </li>
-  <li>
 - 💬 Send me a message and i'll be more than happy to help you
   </li>
   <li>
