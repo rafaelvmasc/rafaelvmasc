@@ -1,14 +1,5 @@
-## Hey, I am Rafael! Welcome to my profile👨‍💻
-<div>
- 
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelvmasc&show_icons=true&theme=radical&include_all_commits=true&count_private=true ">
-
- </div>
  <div>
 <ul>
-  <li>
-- 💬 Send me a message and i'll be more than happy to help you
-  </li>
   <li>
     - 📫 How to reach me: rvmascavalcante@gmail.com
   </li>
